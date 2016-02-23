@@ -1,0 +1,10 @@
+{
+  "name": "docusign-node",
+  "version": "0.0.0",
+  "description": "Placeholder NPM package for Docusign's Node Library",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert Engelbrecht",
+  "license": "MIT"
+}
